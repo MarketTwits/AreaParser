@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="io.opentelemetry.javaagent.instrumentation.khttp.0.1" type="repository">
+    <properties maven-id="io.opentelemetry.javaagent.instrumentation:opentelemetry-javaagent-khttp-0.1:1.0.1-alpha" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/opentelemetry-javaagent-khttp-0.1-1.0.1-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
